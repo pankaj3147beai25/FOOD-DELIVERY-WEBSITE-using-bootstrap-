@@ -1,2 +1,13 @@
-# FOOD-DELIVERY-WEBSITE-using-bootstrap-
-IWT Project demonstrating core web technologies including html ,CSS and  BOOTSTRAP This project focuses on responsive design, user interaction.
+Food Delivery Website
+
+This project is developed as part of the IWT course.
+It is a food delivery website using HTML, CSS, and Bootstrap.
+
+## Technologies Used
+- HTML
+- CSS
+- Bootstrap
+
+
+## Author
+Pankaj
